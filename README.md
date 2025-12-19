@@ -6,7 +6,7 @@
 
 <!-- Demo Video -->
 <p align="center">
-  <b>![Image](https://github.com/user-attachments/assets/7b2127e8-9612-4a0f-ba9a-3960cca05582)</b>b
+  <b>https://github.com/user-attachments/assets/7b2127e8-9612-4a0f-ba9a-3960cca05582</b>b
    
 </p>
 
