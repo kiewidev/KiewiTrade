@@ -6,9 +6,9 @@
 
 <!-- Demo Video -->
 <p align="center">
-  <a href="![Image](https://github.com/user-attachments/assets/7b2127e8-9612-4a0f-ba9a-3960cca05582)">
-    <img src="assets/demo_thumbnail.png" alt="Demo Video" width="860" />
-  </a>
+  <b>![Image](https://github.com/user-attachments/assets/7b2127e8-9612-4a0f-ba9a-3960cca05582)</b>b
+   
+</p>
 
 
 ## Worum geht es
