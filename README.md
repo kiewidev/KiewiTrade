@@ -6,14 +6,10 @@
 
 <!-- Demo Video -->
 <p align="center">
-  <a href="DEMO_VIDEO_LINK_HIER">
+  <a href="![Image](https://github.com/user-attachments/assets/7b2127e8-9612-4a0f-ba9a-3960cca05582)">
     <img src="assets/demo_thumbnail.png" alt="Demo Video" width="860" />
   </a>
-</p>
 
-<p align="center">
-  <a href="DEMO_VIDEO_LINK_HIER"><b>▶ Demo Video ansehen</b></a>
-</p>
 
 ## Worum geht es
 TradeLens hilft dir, Broker CSV Exporte zu importieren, einzelne Fills zu vollständigen Trades zusammenzusetzen und danach deine Performance, Ausführung und Disziplin auszuwerten. Fokus ist ein schneller Workflow wie bei TraderVue oder TradeZilla, aber als eigenes, erweiterbares Projekt.
